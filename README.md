@@ -1,0 +1,2 @@
+# 504dbf21b5ed8caf-church-ministry-employee-train
+You shouldn't need alt-tabbing out of your code 40 times a day to stay in flow state and ship faster.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Church Ministry Employee Training Portal — fully configured and ready to use
